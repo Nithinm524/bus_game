@@ -1,0 +1,6 @@
+{
+  "name": "Bharat Bus Simulator 3D",
+  "description": "Realistic 3D Indian bus driving simulator inspired by BUSSID. Drive authentic Indian government and luxury buses across highways, ghat roads, cities, and villages with realistic physics, traffic, weather, and passenger system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
